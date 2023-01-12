@@ -1,7 +1,7 @@
 # soccer
 The first GitHub repository
 
-Tokai University, Faculty of Physical Education, Department of Athletic Sports, 4th year,Soccer Analyst, AICJ High School Girls Soccer Team
+Tokai University, Master Cource
 
-I'm researching goal expectations.
+I'm just researching Expected Goal in J League.
 
