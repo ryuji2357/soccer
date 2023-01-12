@@ -1,4 +1,4 @@
-# soccer
+# Football Data
 The first GitHub repository
 
 Tokai University, Master Cource
